@@ -1,0 +1,4 @@
+#Fri Jul 06 19:32:52 CEST 2018
+base.0=C\:\\Users\\android9Ed\\AndroidStudioProjects\\MyRobot\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\38
+path.0=classes.dex
+renamed.0=classes.dex

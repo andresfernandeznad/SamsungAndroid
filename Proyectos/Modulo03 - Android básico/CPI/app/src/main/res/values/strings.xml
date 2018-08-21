@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora Polaca Inversa</string>
+    <string name="textInput">Introduce un número</string>
+    <string name="entra">Entra</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multi">Mult</string>
+    <string name="divide">Divide</string>
+    <string name="resultado">Res</string>
+    <string name="textView">Resultado </string>
+</resources>
+

@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:grantUriPermissions
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:27:13-47
+	android:authorities
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:24:13-60
+	android:exported
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:25:13-67
+manifest
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7d5f0d1609ddb16b97eb6bc2735a16b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4485fedcfe4c656a5a491ffadda6dc0b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4a4ad2c51a4421adb613d171291a50d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\caac1a3ae0342926386f3ff530e46611\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e8c9d40ce3e478fd2df31e1d5f833a6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\7439589eca23c044501eacb5f67cf0db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7c470027f26631f1bbe89b8fc2c6c605\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fae5b5fc78ce77f0dc29c92d6a4c9a1d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\0f70c51deb3037bab3466d02f6c9f5d3\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:5:5-83
+	android:required
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:5:58-81
+	android:name
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4485fedcfe4c656a5a491ffadda6dc0b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4485fedcfe4c656a5a491ffadda6dc0b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:14:9-40
+activity#es.uma.processimage.MainActivity
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:15:19-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7d5f0d1609ddb16b97eb6bc2735a16b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7d5f0d1609ddb16b97eb6bc2735a16b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4485fedcfe4c656a5a491ffadda6dc0b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4485fedcfe4c656a5a491ffadda6dc0b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4a4ad2c51a4421adb613d171291a50d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4a4ad2c51a4421adb613d171291a50d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\caac1a3ae0342926386f3ff530e46611\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\caac1a3ae0342926386f3ff530e46611\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e8c9d40ce3e478fd2df31e1d5f833a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\e8c9d40ce3e478fd2df31e1d5f833a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\7439589eca23c044501eacb5f67cf0db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\7439589eca23c044501eacb5f67cf0db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7c470027f26631f1bbe89b8fc2c6c605\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\7c470027f26631f1bbe89b8fc2c6c605\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fae5b5fc78ce77f0dc29c92d6a4c9a1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fae5b5fc78ce77f0dc29c92d6a4c9a1d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\0f70c51deb3037bab3466d02f6c9f5d3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\android9Ed\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\0f70c51deb3037bab3466d02f6c9f5d3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:28:13-30:53
+	android:resource
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:30:17-51
+	android:name
+		ADDED from C:\Users\android9Ed\Downloads\ProcessImage-Threads\app\src\main\AndroidManifest.xml:29:17-67

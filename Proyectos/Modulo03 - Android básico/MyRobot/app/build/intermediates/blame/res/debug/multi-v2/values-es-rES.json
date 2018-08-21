@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\android9Ed\\AndroidStudioProjects\\MyRobot\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\android9Ed\\AndroidStudioProjects\\MyRobot\\app\\src\\main\\res\\values-es-rES\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,4,-1,-1",
+                        "startColumns": "-1,-1,-1,4,-1,-1",
+                        "startOffsets": "-1,-1,-1,162,-1,-1",
+                        "endColumns": "-1,-1,-1,43,-1,-1",
+                        "endOffsets": "-1,-1,-1,201,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,100,144,190,234,292",
+                        "endColumns": "44,43,45,43,57,248",
+                        "endOffsets": "95,139,185,229,287,536"
+                    }
+                }
+            ]
+        }
+    ]
+}

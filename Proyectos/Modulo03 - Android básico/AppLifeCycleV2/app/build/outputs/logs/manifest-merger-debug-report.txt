@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:3:1-45
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:5:1-27:15
+	android:label
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:8:5-37
+	android:icon
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:7:5-39
+	android:allowBackup
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:6:5-31
+	android:theme
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:9:5-36
+	android:name
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:10:5-36
+activity#com.example.mastermov.applifecycle.AppLifeCycleActivity1
+ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:11:5-18:16
+	android:label
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:13:9-43
+	android:name
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:12:9-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:14:9-17:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:15:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:16:13-73
+	android:name
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:16:23-70
+activity#com.example.mastermov.applifecycle.AppLifeCycleActivity2
+ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:19:5-26:16
+	android:label
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:20:9-46
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:23:9-25:54
+	android:value
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:25:13-51
+	android:name
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml:24:13-59
+uses-sdk
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\android9Ed\Desktop\AppLifeCycleV2\app\src\main\AndroidManifest.xml

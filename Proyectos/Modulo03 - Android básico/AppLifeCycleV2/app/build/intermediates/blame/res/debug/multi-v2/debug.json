@@ -1,0 +1,101 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\android9Ed\\Desktop\\AppLifeCycleV2\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\android9Ed\\Desktop\\AppLifeCycleV2\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "182"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "601",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "729"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\android9Ed\\Desktop\\AppLifeCycleV2\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\android9Ed\\Desktop\\AppLifeCycleV2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "199,257",
+                        "endColumns": "57,55",
+                        "endOffsets": "252,308"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\android9Ed\\Desktop\\AppLifeCycleV2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,1,4,5,2",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "119,16,172,238,66",
+                        "endColumns": "52,49,65,65,52",
+                        "endOffsets": "167,61,233,299,114"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "313,366,416,482,548",
+                        "endColumns": "52,49,65,65,52",
+                        "endOffsets": "361,411,477,543,596"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\android9Ed\\Desktop\\AppLifeCycleV2\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\android9Ed\\Desktop\\AppLifeCycleV2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

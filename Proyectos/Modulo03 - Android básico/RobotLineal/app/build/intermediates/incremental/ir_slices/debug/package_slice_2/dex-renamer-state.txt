@@ -1,0 +1,4 @@
+#Thu Jul 05 18:25:59 CEST 2018
+base.0=C\:\\Users\\android9Ed\\Downloads\\RobotLineal\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

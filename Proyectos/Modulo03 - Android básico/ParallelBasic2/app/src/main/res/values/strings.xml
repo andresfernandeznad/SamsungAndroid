@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParallelBasic</string>
+    <string name="increment">Increment</string>
+    <string name="dowork">Do Work</string>
+    <string name="asynctask">AsyncTask</string>
+    <string name="javathreads">Java Threads</string>
+    <string name="executor">Executor</string>
+    <string name="stat">Total time:</string>
+</resources>
